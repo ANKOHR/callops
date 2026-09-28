@@ -1,0 +1,17 @@
+{
+  "name": "quiet",
+  "title": "Quiet exchange",
+  "session_id": "quiet-demo",
+  "contact": {
+    "name": "Taylor Reed",
+    "company": "Maple Street Studio",
+    "email": "taylor@example.invalid"
+  },
+  "outcome": "No follow-up requested",
+  "started_at": "2026-09-27T13:00:00Z",
+  "turns": [
+    {"speaker": "AGENT", "text": "Hello Taylor, thanks for taking a moment to speak with me."},
+    {"speaker": "CONTACT", "text": "Just looking today."},
+    {"speaker": "AGENT", "text": "Understood, thank you for your time."}
+  ]
+}

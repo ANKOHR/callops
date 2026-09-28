@@ -1,0 +1,25 @@
+{
+  "name": "discovery",
+  "title": "Discovery call",
+  "session_id": "discovery-demo",
+  "contact": {
+    "name": "Maya Chen",
+    "company": "Northstar HVAC",
+    "email": "maya@example.invalid"
+  },
+  "outcome": "Qualified for a migration planning follow-up",
+  "started_at": "2026-09-27T10:00:00Z",
+  "turns": [
+    {"speaker": "AGENT", "text": "Hello Maya, this is the CallOps demo assistant. Is now still a good time to discuss Northstar HVAC's service scheduling?"},
+    {"speaker": "CONTACT", "text": "Yes. We have 12 technicians and handle about 300 service visits each month."},
+    {"speaker": "AGENT", "text": "What is hardest in your current workflow?"},
+    {"speaker": "CONTACT", "text": "We currently use spreadsheets to assign jobs, and dispatch loses time each morning."},
+    {"speaker": "CONTACT", "text": "My main concern is switching during our winter peak. We need a clear migration plan."},
+    {"speaker": "AGENT", "text": "Understood. What budget have you set aside?"},
+    {"speaker": "CONTACT", "text": "We can spend up to $8,000 for setup, if the migration is manageable."},
+    {"speaker": "AGENT", "text": "When would you want to start?"},
+    {"speaker": "CONTACT", "text": "Ideally by November, before the winter rush."},
+    {"speaker": "AGENT", "text": "I'll send the migration outline and pricing proposal by Friday, then we can review it next week."},
+    {"speaker": "CONTACT", "text": "That works. Please include a short demo for our operations manager."}
+  ]
+}

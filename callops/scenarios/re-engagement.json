@@ -1,0 +1,20 @@
+{
+  "name": "re-engagement",
+  "title": "Re-engagement call",
+  "session_id": "re-engagement-demo",
+  "contact": {
+    "name": "Priya Shah",
+    "company": "Fieldstone Gardens",
+    "email": "priya@example.invalid"
+  },
+  "outcome": "Prospect is open to a short product demonstration",
+  "started_at": "2026-09-27T12:00:00Z",
+  "turns": [
+    {"speaker": "AGENT", "text": "Hi Priya, we spoke earlier this year about coordinating field crews."},
+    {"speaker": "CONTACT", "text": "We now have 18 field staff across three locations."},
+    {"speaker": "CONTACT", "text": "Our concern is that a new tool could take too long to train everyone."},
+    {"speaker": "AGENT", "text": "Would a short demonstration be useful before making a decision?"},
+    {"speaker": "CONTACT", "text": "Yes, perhaps in two weeks after our seasonal handover."},
+    {"speaker": "AGENT", "text": "I'll send a few demonstration times by Thursday."}
+  ]
+}

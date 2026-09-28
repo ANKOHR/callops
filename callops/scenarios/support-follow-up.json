@@ -1,0 +1,20 @@
+{
+  "name": "support-follow-up",
+  "title": "Support follow-up",
+  "session_id": "support-follow-up-demo",
+  "contact": {
+    "name": "Jordan Lee",
+    "company": "Harborlight Repairs",
+    "email": "jordan@example.invalid"
+  },
+  "outcome": "Customer will review the proposed scheduling fix",
+  "started_at": "2026-09-27T11:00:00Z",
+  "turns": [
+    {"speaker": "AGENT", "text": "Hi Jordan, I am following up on the appointment reminder issue you reported."},
+    {"speaker": "CONTACT", "text": "The reminders arrive late for about 20 percent of our appointments."},
+    {"speaker": "CONTACT", "text": "I am concerned customers will miss the new time if the delay continues."},
+    {"speaker": "AGENT", "text": "We have a proposed fix ready for review."},
+    {"speaker": "CONTACT", "text": "Please send the fix details by Tuesday and I will test them with our front desk."},
+    {"speaker": "AGENT", "text": "I will email the fix details by Tuesday and follow up after your test."}
+  ]
+}
